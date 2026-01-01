@@ -29,7 +29,7 @@
 
 /* ✨ Fix: Email & Password titles (labels) in Dark Mode */
 .auth-dark-mode label {
-    color: #ffffff !important;
+    color: #0000FF !important;
     font-weight: 600;
     letter-spacing: 0.02em;
     opacity: 1;
