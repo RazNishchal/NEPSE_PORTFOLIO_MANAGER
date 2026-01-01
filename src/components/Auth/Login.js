@@ -96,7 +96,7 @@ const Login = ({ toggleToRegister }) => {
         >
             <form onSubmit={handleLogin} className="auth-form-body">
                 <div className="input-field">
-                    <label>Email Address</label>
+                    <label style="color: #0000FF; font-weight: 700;">Email Address</label>
                     <input
                         type="email"
                         placeholder="name@company.com"
@@ -107,7 +107,7 @@ const Login = ({ toggleToRegister }) => {
                 </div>
 
                 <div className="input-field">
-                    <label>Password</label>
+                    <label style="color: #0000FF; font-weight: 700;">Password</label>
                     <div className="password-input-wrapper" style={{ position: 'relative' }}>
                         <input
                             type={showPassword ? "text" : "password"}
