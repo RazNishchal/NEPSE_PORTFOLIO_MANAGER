@@ -93,7 +93,7 @@
 .input-field label {
   font-size: 0.75rem;
   font-weight: 700;
-  color: var(--text-main);
+  color: #1c1ce1;
   margin-bottom: 0.6rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
