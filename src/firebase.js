@@ -21,4 +21,4 @@ export const googleProvider = new GoogleAuthProvider();
 // App URL helper for redirection if needed
 export const APP_URL = window.location.hostname === "localhost"
     ? "http://localhost:3000"
-    : "https://ipo-result-checker-30c91.vercel.app";
+    : "https://nepse-portfolio-manager.vercel.app";
